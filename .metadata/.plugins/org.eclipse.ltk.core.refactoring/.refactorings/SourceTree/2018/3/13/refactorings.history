@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;SourceTree&apos;&#x0D;&#x0A;- Original project: &apos;SourceTree&apos;&#x0D;&#x0A;- Original element: &apos;merge.MergeMain.java&apos;" description="Delete element" element1="/src&lt;merge{MergeMain.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1522168938584" subPackages="false" version="1.0"/>
+</session>
